@@ -31,8 +31,6 @@ class App extends React.Component {
         });
       }
 
-      console.log(userAuth)
-
       setCurrentUser(userAuth)
     })
   }
